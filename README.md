@@ -74,7 +74,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
 </p>
 <br/><br/>
-<p>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/danielbloureiro/)
 [![github](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]([https://dio.me/users/danielloureirorj](https://github.com/bldaniel))
 ---
