@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [BingImageCreator](https://www.bing.com/images/create?FORM=GENILP)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,15 +40,21 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um titulo de  um ebook sobre o temma PROXMOX, o ebook é do nicho de plataforma de virtualização e do subnicho de infraestrutura de VM, o titulo deve ser curto e épico, e tenha uma tematica simplese objetiva  meio nerd. me liste 5 variaoes de titulos                                                       |
+| conteúdo | faça um texto para ebook onde o nome é "Proxmox: O Poder da Virtualização em Suas Mãos" , com foco em Proxmox, listando os principais vantagens dele opensource de virtualizaçao com exemplos praticos. e no final um guia rapido de instalaçao e criaçao de VMS
+
+{REGRAS}
+>Explique sempre de uma maneira simples
+>Deixe o texto enxuto
+>sempre traga exemplos com contextos reais
+>sempre deixe um titulo sugestivo por tópicoS |
 
 
-Midjourney：
+BingImageCreator：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create an eye-catching  cover titled "Proxmox: O Poder da Virtualização em Suas Mãos." Use a futuristic, sleek design with a dark, solid background suitable for an A3 sheet. Feature a hand holding a glowing, holographic sphere, symbolizing control over virtual environments. Incorporate subtle tech elements like network lines. Ensure the title stands out with bold, clean typography. |
 
 ## ✨ Features
 
@@ -71,17 +77,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/bldaniel"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/bldaniel">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    <a href="www.linkedin.com/in/danielbloureiro">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -89,4 +91,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ por [Daniel B Loureiro](https://github.com/bldaniel)
