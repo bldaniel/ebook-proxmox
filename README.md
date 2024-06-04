@@ -8,7 +8,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/_d00421e9-8c99-4509-9c48-d723e5f7bc71.jpg"
     width="400"  
 />
 </p>
