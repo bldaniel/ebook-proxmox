@@ -79,7 +79,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/bldaniel"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspDaniel B Loureiro<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/bldaniel">
     GitHub</a>&nbsp;|&nbsp;
