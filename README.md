@@ -38,8 +38,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um titulo de  um ebook sobre o temma PROXMOX, o ebook é do nicho de plataforma de virtualização e do subnicho de infraestrutura de VM, o titulo deve ser curto e épico, e tenha uma tematica simplese objetiva  meio nerd. me liste 5 variaoes de titulos                                                       |
 | conteúdo | faça um texto para ebook onde o nome é "Proxmox: O Poder da Virtualização em Suas Mãos" , com foco em Proxmox, listando os principais vantagens dele opensource de virtualizaçao com exemplos praticos. e no final um guia rapido de instalaçao e criaçao de VMS
-
-|Regras    | >Explique sempre de uma maneira simples >Deixe o texto enxuto >sempre traga exemplos com contextos reais >sempre deixe um titulo sugestivo por tópicoS 
+| Regras   |>Explique sempre de uma maneira simples >Deixe o texto enxuto >sempre traga exemplos com contextos reais >sempre deixe um titulo sugestivo por tópicoS |
 
 
 BingImageCreator：
