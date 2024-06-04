@@ -72,16 +72,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspDaniel B Loureiro<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/bldaniel">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/danielbloureiro">LinkedIn</a>
-&nbsp;|&nbsp;</p>
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/danielbloureiro/)
+[![github](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]([https://dio.me/users/danielloureirorj](https://github.com/bldaniel))
 </p>
 <br/><br/>
 <p>
 
 ---
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/danielbloureiro/)
-[![github](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]([https://dio.me/users/danielloureirorj](https://github.com/bldaniel))
 
 ⌨️ por [Daniel B Loureiro](https://github.com/bldaniel)
