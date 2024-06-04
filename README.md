@@ -8,7 +8,7 @@
 
 <p align="center">
 <img 
-    src="./assets/_d00421e9-8c99-4509-9c48-d723e5f7bc71.jpg"
+    src="./assets/capa.png"
     width="400"  
 />
 </p>
